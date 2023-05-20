@@ -426,6 +426,7 @@ h6, .h6 {
   line-height: 1.2;
 }
 
+<<<<<<< HEAD
 .thongbao {
   width: 800px;
   margin: 25px auto;
@@ -466,6 +467,8 @@ tr:nth-child(even) {
   float: left;
   
 }
+=======
+>>>>>>> 79b4934665518fa4c4d2cea08d50965d3f636898
 @media (max-width: 1200px) {
   .display-1 {
     font-size: calc(1.725rem + 5.7vw) ;
